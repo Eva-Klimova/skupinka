@@ -30,4 +30,5 @@ print(cisla)
 soucet_km = sum(cisla)
 print(soucet_km)
 
+# A teď si sem něco dopíšu.
 
